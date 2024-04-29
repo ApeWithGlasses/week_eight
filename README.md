@@ -1,4 +1,4 @@
-# How to run it?
+# How do I run it?
 
 ```sh
 git clone
